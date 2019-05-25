@@ -1,6 +1,6 @@
 import React from 'react';
 import MoodRatio from './MoodRatio';
-import '../app.css';
+import '../App.css';
 
 function App() {
   return (

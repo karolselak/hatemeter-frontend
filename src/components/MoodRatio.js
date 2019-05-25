@@ -1,6 +1,6 @@
 import React from "react";
 import Rating from "react-rating";
-import '../app.css';
+import '../App.css';
 
 export default class MoodRatio extends React.Component {
   constructor(props) {
